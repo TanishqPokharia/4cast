@@ -11,6 +11,7 @@
 - **Lottie Animations:** Enjoy visually appealing animations that correspond to different weather conditions.
 - **Modular Design:** A well-organized and modular codebase for easy maintenance and future development.
 - **User-Friendly Interface:** An intuitive and user-friendly interface makes accessing weather information a breeze.
+- **Ease-of-use** Easily navigate between home screen and search screen with right swipe and left swipe.
 ## Demo Video
 
 https://drive.google.com/file/d/1_5Qkk5jH6XYFnR3uqeiomAQ7hTyZG-1F/view?usp=sharing
