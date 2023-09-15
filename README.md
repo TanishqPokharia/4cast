@@ -14,7 +14,7 @@
 - **Ease-of-use** Easily navigate between home screen and search screen with right swipe and left swipe.
 ## Demo Video
 
-https://drive.google.com/file/d/1_5Qkk5jH6XYFnR3uqeiomAQ7hTyZG-1F/view?usp=sharing
+[https://drive.google.com/file/d/1_5Qkk5jH6XYFnR3uqeiomAQ7hTyZG-1F/view?usp=sharing](https://drive.google.com/file/d/12STKDckBonK9oi4PbhHxJ25t6X8Ojh1c/view?usp=sharing)
 
 ## Installation
 
