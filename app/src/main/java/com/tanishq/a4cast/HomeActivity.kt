@@ -1,6 +1,8 @@
 package com.tanishq.a4cast
 
+import android.content.Context
 import android.content.Intent
+import android.content.SharedPreferences
 import android.location.LocationManager
 import android.os.Bundle
 import android.view.MotionEvent
@@ -20,8 +22,6 @@ class HomeActivity : AppCompatActivity() {
     private var x2:Float = 0.0f
     private var y1:Float = 0.0f
     private var y2:Float = 0.0f
-    var locationProvider = LocationManager.GPS_PROVIDER
-
     private lateinit var  binding: ActivityHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

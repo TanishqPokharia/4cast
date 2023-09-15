@@ -152,12 +152,16 @@ class SearchActivity : AppCompatActivity() {
                 else if (x1 < x2) {
                     val intent = Intent(this, HomeActivity::class.java)
                     startActivity(intent)
-                    overridePendingTransition(R.anim.left,R.anim.right)
+                    overridePendingTransition(R.anim.left2,R.anim.right2)
                 }
                 true
             }
             else -> false
         }
+    }
+    override fun onBackPressed() {
+        super.onBackPressed()
+        overridePendingTransition(R.anim.left2,R.anim.right2)
     }
 
 
