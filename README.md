@@ -1,6 +1,4 @@
 # 4cast - Your Weather Companion
-
-
 4cast is a powerful and user-friendly weather app developed in Kotlin for Android devices. It provides you with real-time weather information for your current location and allows you to search for weather updates in different places around the world with the help of OpenWeatherAPI. With a sleek and modular design, 4cast delivers a visually engaging experience, complete with dynamic Lottie animations that reflect the current weather conditions.
 
 
